@@ -1,2 +1,2 @@
-# Nadex-history
+# Nadex Results
 Nadex Historical Pricing Information
