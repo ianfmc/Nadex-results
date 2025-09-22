@@ -36,3 +36,9 @@ flake8>=6.0.0
 
 # Optional: experiment tracking
 mlflow>=2.6.0
+
+# PDF and YAML related 
+pymupdf
+pdfplumber
+tqdm
+pyyaml
